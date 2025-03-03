@@ -1,5 +1,5 @@
 Aprendendo e desenvolvendo Git e GitHub
 
-_0_|__|__
+_0_|__|_0_
 __|__|__
 __|_X_|__
