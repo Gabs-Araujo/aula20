@@ -3,4 +3,6 @@ Aprendendo e desenvolvendo Git e GitHub
 
 _0_|__|_0_
 _0_|__|_x_
-_x_|_X_|__
+_x_|_X_|_0_
+
+
